@@ -1,4 +1,4 @@
-# operating systems
+# Operating Systems
 
 - lab01: cut grep stat
 - lab02: wc find ps
